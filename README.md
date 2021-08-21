@@ -4,5 +4,6 @@
 * A Basic discord bot 
 * just an on ready event and a ping command
 
-* pip install discord.py *
-* pip install DiscordComponets*
+Just Run These Commands In Command Prompt Or Shell
+> pip install discord.py 
+> pip install DiscordComponets
